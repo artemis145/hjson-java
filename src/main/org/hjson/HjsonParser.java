@@ -25,7 +25,7 @@ package org.hjson;
 import java.io.*;
 
 class HjsonParser {
-
+  // test message
   private static final int MIN_BUFFER_SIZE=10;
   private static final int DEFAULT_BUFFER_SIZE=1024;
 
